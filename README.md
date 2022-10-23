@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://activity-graph.herokuapp.com/graph?username=dntjd960403&theme=github" height=250 alt="graph"/>
 <!--
 **dntjd960403/dntjd960403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
