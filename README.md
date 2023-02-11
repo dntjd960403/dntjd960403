@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🤓 공부중 🤓
+# 🌱 I’m currently learning
 <div style="display: flex;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 53px; margin-bottom: 53px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 53px; margin-bottom: 53px;" />
