@@ -10,7 +10,7 @@
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 53px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
 <!--
-**dntjd960403/dntjd960403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** dntjd960403/dntjd960403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
